@@ -1,0 +1,23 @@
+{
+  "name": "supercache",
+  "version": "0.0.1",
+  "description": "A wrapper for superagent that handles caching http requests to redis'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "superagent",
+    "http",
+    "cacheing"
+  ],
+  "author": "Cecil Worsley <cecilworsley4@gmail.com>",
+  "license": "Public",
+  "devDependencies": {
+    "mocha": "^2.1.0",
+    "should": "^5.0.1"
+  },
+  "dependencies": {
+    "superagent": "^0.21.0"
+  }
+}
