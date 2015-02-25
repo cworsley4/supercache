@@ -15,9 +15,13 @@
   "license": "Public",
   "devDependencies": {
     "mocha": "^2.1.0",
+    "redis": "^0.12.1",
     "should": "^5.0.1"
   },
   "dependencies": {
+    "co": "^4.4.0",
+    "co-redis": "^1.1.1",
+    "node-noop": "0.0.1",
     "superagent": "^0.21.0"
   }
 }
