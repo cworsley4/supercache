@@ -1,5 +1,5 @@
 {
-  "name": "supercache",
+  "name": "supercache-wrapper",
   "version": "0.0.1",
   "description": "A wrapper for superagent that handles caching http requests to redis'",
   "main": "index.js",
